@@ -28,8 +28,8 @@ Print the results.<br>
 
 ## Program :
 ```
-Name: Yuvadarshini S
-Reg.No:212221230126
+Name: Pragatheesvaran AB
+Reg.No:212221240039
 ```
 
 ```py
